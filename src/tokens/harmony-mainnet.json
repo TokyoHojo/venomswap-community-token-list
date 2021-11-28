@@ -225,6 +225,14 @@
   },
   {
     "chainId": 1666600000,
+    "address": "0x257DE2729dC43EADaD83F03d5198D19d7d37081d",
+    "symbol": "FATC",
+    "name": "Fat Cat",
+    "decimals": 16,
+    "logoURI": "https://i.imgur.com/k9t6pSt.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0xed2A4E1577F7C90d84915250278B685bD6e498b3",
     "symbol": "LAZR",
     "name": "LAZR",
